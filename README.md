@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="http://juzdalua.tistory.com" target="_blank"><img src="https://img.shields.io/badge/[LinedIn]-[0A66C2]?style=flat-square&logo=[LinkedIn]&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%A4%80-%EA%B9%80-05666a217" target="_blank"><img src="https://img.shields.io/badge/[Blog]-[ED1C24]?style=flat-square&logo=[Bitdefender]&logoColor=white"/></a>
+<a href="http://instagram.com/juzdalua" target="_blank"><img src="https://img.shields.io/badge/[Blog]-[E4405F]?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
