@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/%EC%A4%80-%EA%B9%80-05666a217" target="_blank"><img style="" src="https://img.shields.io/badge/LinedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="http://juzdalua.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
 <a href="http://instagram.com/juzdalua" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
+![Juzdalua](https://github-readme-stats.vercel.app/api?username=Juzdalua&show_icons=true)
+[![Juzdalua](https://github-readme-stats.vercel.app/api/top-langs/?username=Juzdalua&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Juzdalua)
