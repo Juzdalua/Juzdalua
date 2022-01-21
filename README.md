@@ -1,6 +1,6 @@
-Hi there 👋
-I'm backend developer, Jun.
-I'm interested in NodeJS, PostgreSQL, AWS ec2.
+Hi there 👋 <br/>
+I'm backend developer, Jun.<br/>
+I'm interested in NodeJS, PostgreSQL, AWS ec2.<br/>
 
 <!--
 **Juzdalua/Juzdalua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
