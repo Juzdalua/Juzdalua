@@ -1,6 +1,6 @@
 Hi there 👋 <br/>
 I'm backend developer, Jun.<br/>
-I'm interested in NodeJS, PostgreSQL, AWS ec2.
+I'm interested in RESTful API, RDBMS and Cloud Service.
 <br/><br/>
 
 ## 💻 Skills
