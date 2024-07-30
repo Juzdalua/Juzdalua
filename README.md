@@ -1,5 +1,5 @@
 Hi!  
-Backend Server Developer, Jun.  
+Backend Developer, Jun.  
 I'm interested in C++ Server.  
 
 Skill: Typescript, Node.js, NestJS, MySQL, Unity, C#, C++  
