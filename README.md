@@ -1,8 +1,7 @@
 Hi!  
 Backend Developer, Jun.  
-I'm interested in C++ Server.  
 
-Skill: Typescript, Node.js, NestJS, MySQL, C++  
+Skill: Typescript, Node.js, NestJS, MySQL, C++, Unity  
 Resume: https://juzdalua.notion.site/fe85c3003ddc47a6ba8527ba63a7ea98  
 Blog: https://juzdalua.tistory.com/  
 
