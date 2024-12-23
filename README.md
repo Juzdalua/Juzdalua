@@ -1,7 +1,16 @@
+```
+   ___  _   _  _   _     _   __ _____ ___  ___
+  |_  || | | || \ | |   | | / /|_   _||  \/  |
+    | || | | ||  \| |   | |/ /   | |  | .  . |
+    | || | | || . ` |   |    \   | |  | |\/| |
+/\__/ /| |_| || |\  |   | |\  \ _| |_ | |  | |
+\____/  \___/ \_| \_/   \_| \_/ \___/ \_|  |_/
+```
+
 Hi!  
 Backend Developer, Jun.  
 
-Skill: Typescript, Node.js, NestJS, MySQL, C++, Unity  
+Skill:  C++, Typescript, Node.js, NestJS, MySQL, Unity  
 Resume: https://juzdalua.notion.site/fe85c3003ddc47a6ba8527ba63a7ea98  
 Blog: https://juzdalua.tistory.com/  
 
